@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://ts1877.github.io/IIIFtest/annotations/annotations1.json" ],
+  "@id" : "https://ts1877.github.io/IIIFtest/annotations/collection.json",
+  "label" : "All annotations loaded in ts1877/IIIFtest project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

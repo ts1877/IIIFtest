@@ -44,6 +44,14 @@
         },
         "on" : "http://be681ae2-1f32-4431-82dd-af8dfe0455bb"
       } ],
+      "otherContent": [
+    {
+        "@id" : "https://ts1877.github.io/IIIFtest/annotations/annotations1.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+]
+    },
       "metadata" : [ {
         "label" : "Copyright",
         "value" : "© UNESCO Giovanni Boccardi"

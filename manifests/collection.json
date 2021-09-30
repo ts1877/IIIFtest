@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ts1877.github.io/IIIFtest/manifests/leptis.json",
     "label" : "Leptis Magna"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ts1877.github.io/IIIFtest/manifests/manifest2.json",
+    "label" : "Leptis Magna"
   } ]
 }

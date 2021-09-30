@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ts1877.github.io/IIIFtest/manifests/manifest3.json",
+    "label" : "Broadway Block"
+  } ]
 }

@@ -50,7 +50,6 @@
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
-]
       "metadata" : [ {
         "label" : "Copyright",
         "value" : "© UNESCO Giovanni Boccardi"
